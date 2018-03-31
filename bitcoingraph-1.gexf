@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="attr_dict" type="string" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.1</creator>
+      <lastmodified>30/03/2018</lastmodified>
+    </meta>
+    <nodes>
+      <node id="1M7EfsACoE3R4XpejoC9FRgPGeRMdp543k" label="1M7EfsACoE3R4XpejoC9FRgPGeRMdp543k">
+        <attvalues>
+          <attvalue for="0" value="{'type': 'Bitcoin Address'}" />
+        </attvalues>
+      </node>
+      <node id="1PkApXZFVMVH42bVi4xDe6WH8s6sJ8mMep" label="1PkApXZFVMVH42bVi4xDe6WH8s6sJ8mMep">
+        <attvalues>
+          <attvalue for="0" value="{'type': 'Bitcoin Address'}" />
+        </attvalues>
+      </node>
+      <node id="1QFm6cxrRUPYu5Y49WxfQYMviUbcPDdK6w" label="1QFm6cxrRUPYu5Y49WxfQYMviUbcPDdK6w">
+        <attvalues>
+          <attvalue for="0" value="{'type': 'Bitcoin Address'}" />
+        </attvalues>
+      </node>
+      <node id="3B8oEojNbbumYAsjbeqiwbPUTbky7T3p81" label="3B8oEojNbbumYAsjbeqiwbPUTbky7T3p81">
+        <attvalues>
+          <attvalue for="0" value="{'type': 'Bitcoin Wallet'}" />
+        </attvalues>
+      </node>
+      <node id="38tDw12ZRJJjKTEY5DyAC7h9me7L37Xmgi" label="38tDw12ZRJJjKTEY5DyAC7h9me7L37Xmgi">
+        <attvalues>
+          <attvalue for="0" value="{'type': 'Bitcoin Address'}" />
+        </attvalues>
+      </node>
+      <node id="1AEbZGz6BxAm7aDfJ8G1tkCEpu5kqEEov5" label="1AEbZGz6BxAm7aDfJ8G1tkCEpu5kqEEov5">
+        <attvalues>
+          <attvalue for="0" value="{'type': 'Bitcoin Address'}" />
+        </attvalues>
+      </node>
+      <node id="38rsTGwFETopb8UHxNYh1aXxdiDC72r6Dt" label="38rsTGwFETopb8UHxNYh1aXxdiDC72r6Dt">
+        <attvalues>
+          <attvalue for="0" value="{'type': 'Bitcoin Address'}" />
+        </attvalues>
+      </node>
+      <node id="17DHLULuCgjVkgMTwpQXszMQTGbBUMyzwQ" label="17DHLULuCgjVkgMTwpQXszMQTGbBUMyzwQ">
+        <attvalues>
+          <attvalue for="0" value="{'type': 'Bitcoin Address'}" />
+        </attvalues>
+      </node>
+      <node id="3QWBhyDdpzz1aZ213kjoEwSsbhiCGkmn2X" label="3QWBhyDdpzz1aZ213kjoEwSsbhiCGkmn2X">
+        <attvalues>
+          <attvalue for="0" value="{'type': 'Bitcoin Address'}" />
+        </attvalues>
+      </node>
+      <node id="1MLSqBAGiGYNVKoTVatPowWkP4ZKLCAK1D" label="1MLSqBAGiGYNVKoTVatPowWkP4ZKLCAK1D">
+        <attvalues>
+          <attvalue for="0" value="{'type': 'Bitcoin Address'}" />
+        </attvalues>
+      </node>
+      <node id="18uXu1kuJ7KMGXxBzrm5yfhQ72VpG3jGvi" label="18uXu1kuJ7KMGXxBzrm5yfhQ72VpG3jGvi">
+        <attvalues>
+          <attvalue for="0" value="{'type': 'Bitcoin Address'}" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="1M7EfsACoE3R4XpejoC9FRgPGeRMdp543k" target="1PkApXZFVMVH42bVi4xDe6WH8s6sJ8mMep" />
+      <edge id="1" source="1M7EfsACoE3R4XpejoC9FRgPGeRMdp543k" target="1QFm6cxrRUPYu5Y49WxfQYMviUbcPDdK6w" />
+      <edge id="2" source="3B8oEojNbbumYAsjbeqiwbPUTbky7T3p81" target="38tDw12ZRJJjKTEY5DyAC7h9me7L37Xmgi" />
+      <edge id="3" source="3B8oEojNbbumYAsjbeqiwbPUTbky7T3p81" target="1AEbZGz6BxAm7aDfJ8G1tkCEpu5kqEEov5" />
+      <edge id="4" source="3B8oEojNbbumYAsjbeqiwbPUTbky7T3p81" target="1M7EfsACoE3R4XpejoC9FRgPGeRMdp543k" />
+      <edge id="5" source="3B8oEojNbbumYAsjbeqiwbPUTbky7T3p81" target="38rsTGwFETopb8UHxNYh1aXxdiDC72r6Dt" />
+      <edge id="6" source="3B8oEojNbbumYAsjbeqiwbPUTbky7T3p81" target="17DHLULuCgjVkgMTwpQXszMQTGbBUMyzwQ" />
+      <edge id="7" source="3B8oEojNbbumYAsjbeqiwbPUTbky7T3p81" target="3QWBhyDdpzz1aZ213kjoEwSsbhiCGkmn2X" />
+      <edge id="8" source="3B8oEojNbbumYAsjbeqiwbPUTbky7T3p81" target="1MLSqBAGiGYNVKoTVatPowWkP4ZKLCAK1D" />
+      <edge id="9" source="3B8oEojNbbumYAsjbeqiwbPUTbky7T3p81" target="18uXu1kuJ7KMGXxBzrm5yfhQ72VpG3jGvi" />
+    </edges>
+  </graph>
+</gexf>
